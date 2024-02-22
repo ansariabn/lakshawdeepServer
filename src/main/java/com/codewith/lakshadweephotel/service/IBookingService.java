@@ -6,7 +6,7 @@ import com.codewith.lakshadweephotel.model.BookedRoom;
 import java.util.List;
 
 /**
- * @author Simpson Alfred
+ * @author Nehal Ansari
  */
 
 public interface IBookingService {
