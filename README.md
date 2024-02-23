@@ -1,4 +1,4 @@
-![Vite + React - Opera 2_23_2024 9_57_35 PM](https://github.com/ansariabn/lakshawdeepServer/assets/110123115/7e0b1923-10c1-49d2-8d01-9f0caf73b483)# Java Full Stack project
+# Java Full Stack project
 
 ## frontend Repository https://github.com/ansariabn/lakshawdeepFront
 
