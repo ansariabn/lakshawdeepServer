@@ -2,7 +2,7 @@
 
 ## frontend Repository https://github.com/ansariabn/lakshawdeepFront
 
-# Doctor Appointment Booking System using Java, Spring Boot, React.Js, MySql
+# Lakshadweep Hotel Booking System using Java, Spring Boot, React.Js, MySql
 
 
 ## Screenshots
